@@ -1,0 +1,5 @@
+This is the 2nd file of this folder and it's a part of the branch b1 which might get added/merged 
+to the main branch later on.
+
+This branch does not have the updated time and date from the main branch that we just added in the 'master' branch.
+Adding one more line to see the difference between 'modified' in the stagging area and the commited area.
