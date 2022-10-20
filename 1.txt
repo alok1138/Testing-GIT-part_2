@@ -1,3 +1,5 @@
 this is the first file in this folder of testing git and practicing the git.
 
 "This line won't be in the master branch".
+
+Adding few more lines to check the git branch and github push operations here in 1.txt.
