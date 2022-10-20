@@ -1,0 +1,2 @@
+This is the 2nd file of this folder and it's a part of the branch b1 which might get added/merged 
+to the main branch later on.
